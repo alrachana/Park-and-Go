@@ -1,0 +1,39 @@
+/* BasicPassForm.css */
+
+.form-container {
+    background-color: #1c1c1c;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin: auto;
+    color: white;
+  
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #333;
+    border: 1px solid #fff;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #0066cc;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  div {
+    text-align: center;
+    color: #141414;
+    font-weight: bold;
+    margin-top: 3%;
+  }
+  

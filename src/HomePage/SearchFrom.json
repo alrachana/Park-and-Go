@@ -1,0 +1,77 @@
+[
+    {
+        "id":1,
+        "icon":"/Images/Bawarchi.png",
+        "title":"Bawarchi",
+        "about":"Bawarchi Restaurant is a popular dining destination renowned for its authentic Indian cuisine, especially its Hyderabadi Biryani, which has earned a legendary reputation. The restaurant offers a casual and family-friendly ambiance, attracting food enthusiasts and locals alike. Known for its consistency in taste and generous portions, Bawarchi is often considered a must-visit for anyone exploring Indian culinary traditions. Whether dining in or taking away, it remains a favorite choice for biryani lovers."
+    },
+    {
+        "id":2,
+        "icon":"/Images/Chutneys.png",
+        "title":"Chutneys",
+        "about":"Chutneys is a popular restaurant known for its authentic South Indian cuisine. It specializes in a variety of dosas, idlis, and chutneys, offering a vibrant and flavorful dining experience. The restaurant is widely appreciated for its consistency in taste, excellent service, and family-friendly ambiance. It's a go-to spot for those craving traditional vegetarian dishes in a welcoming environment."
+    },
+    {
+        "id":3,
+        "icon":"/Images/Greenwood's_Restaurant.png",
+        "title":"Greenwood's Restaurant",
+        "about":"Greenwood's Restaurant is a popular dining spot known for its ambiance and quality food. It offers a diverse menu featuring local and international cuisines, making it a preferred choice for families and food enthusiasts. Its key highlights include:Cozy Atmosphere, Varied Menu, Customer-Focused."
+    },
+    {
+        "id":4,
+        "icon":"/Images/GVK_Mall.png",
+        "title":"GVK Mall",
+        "about":"GVK Mall is a prominent shopping destination located in Hyderabad, India. It offers a wide variety of retail outlets, dining options, and entertainment facilities, making it a popular spot for both locals and tourists. The mall's modern design and comprehensive offerings ensure a convenient and enjoyable shopping experience."
+    },
+    {
+        "id":5,
+        "icon":"/Images/Hanamkonda_Mall.png",
+        "title":"Hanamkonda Mall",
+        "about":"Hanamkonda Mall is a popular shopping destination located in the heart of Warangal, offering a variety of retail stores, dining options, and entertainment facilities. It's a perfect spot for family outings, shopping, and enjoying leisure activities."
+
+    },
+    {
+        "id":6,
+        "icon":"/Images/Hotel_Landmark_Grand.png",
+        "title":"Hotel Landmark Grand",
+        "about":"Hotel Landmark Grand is a luxurious and well-known hotel offering high-end accommodations and excellent services. Located in a prime area, it features modern amenities, a variety of dining options, and an inviting atmosphere for both business and leisure travelers."
+
+    },
+    {
+        "id":7,
+        "icon":"/Images/Inorbit_Mall.png",
+        "title":"Inorbit Mall",
+        "about":"Inorbit Mall is a popular shopping and entertainment destination, known for its wide variety of stores, restaurants, and recreational facilities. It offers a modern and vibrant atmosphere, making it a favorite for both shopping and leisure activities."
+    },
+    {
+        "id":8,
+        "icon":"/Images/Kaling_Dhaba.png",
+        "title":"Kalinga Dhaba",
+        "about":"Kalinga Dhaba is a popular restaurant known for its authentic North Indian and Punjabi cuisine. It offers a wide variety of delicious dishes, from aromatic biryanis to flavorful curries. The relaxed ambiance makes it a great spot for casual dining with family and friends."
+    },
+    {
+        "id":9,
+        "icon":"/Images/LondonHeathrow.png",
+        "title":"London Heathrow",
+        "about":"London Heathrow is one of the busiest airports in the world, located in London, UK. It serves as a major international travel hub with world-class facilities, offering various amenities for travelers, including dining, shopping, and lounges."
+    },
+    {
+        "id":10,
+        "icon":"/Images/Manjeera_Mall.png",
+        "title":"Manjeera mall",
+        "about":"Manjeera Mall is a popular shopping mall located in Hyderabad, India. It offers a wide range of retail stores, dining options, and entertainment facilities like a multiplex cinema, making it a go-to spot for family outings and shopping."
+    },
+    {
+        "id":11,
+        "icon":"/Images/Warangal_Airport.png",
+        "title":"Warangal Airport",
+        "about":"Warangal Airport, located in Telangana, India, is a smaller regional airport aimed at improving connectivity for the region. It serves flights to major cities, helping boost tourism and business activities in Warangal and its surrounding areas."
+    },
+    {
+        "id":12,
+        "icon":"/Images/Olive_Bistro.png",
+        "title":"Olive Bistro",
+        "about":"Olive Bistro is a well-known chain of restaurants offering Mediterranean and European cuisines. It is popular for its vibrant ambiance, delicious food, and variety of options for both casual and fine dining experiences, attracting food lovers across locations."
+    }
+    
+]

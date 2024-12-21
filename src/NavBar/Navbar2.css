@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fresca&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+.header{
+    position: fixed;
+    top: 0%;
+    left: 0;
+    width: 100%;
+    height: 15%;
+    padding: 5px 9%;
+    background-color: rgb(192, 115, 115);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+.logo h1{
+    font-family: "Playfair Display", serif;
+    font-size: 35px;
+    font-weight: 100;
+
+ }
+ .logo h5{
+    font-family: "Playfair Display", serif;
+    
+
+ }
+
+.navhar a{
+    position: relative;
+    font-size: 18px;
+    color: aliceblue;
+    font-weight: 300;
+    margin-left: 40px;
+    top:-10px;
+    width: 20%;
+
+}
+
+
+.navhar a::before{
+    content: '';
+    position: absolute;
+    width: 0;
+    top: 100%;
+    left: 0;
+    height: 2px;
+    background-color: beige;
+    transition: .3s;
+}
+
+
+.navhar a:hover:before{
+    width: 100%;
+
+}
+
+
+
+.hit {
+   
+    cursor: pointer;
+    
+}
+.user-icon {
+    
+    color: #fff;
+  }
+  
+  .email-popout {
+    position: absolute;
+    top: 30px; /* Adjust for placement */
+    right: 0;
+    background-color: #f8f8f8;
+    color: #333;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    white-space: nowrap;
+    z-index: 10; /* Ensure it's above other elements */
+  }
+  
+  .email-popout p {
+    margin: 0;
+    font-size: 14px;
+  }
+
+
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .hit {
+        right: 4rem;
+        width: 110px;
+        height: 35px;
+    }
+}
+
+@media (min-width: 800px) and (max-width: 991px) {
+    .hit {
+        right: 3rem;
+        width: 105px;
+        height: 33px;
+    }
+}
+
+@media screen and (max-width: 799px) {
+    .hit {
+        display: none;
+    }
+}

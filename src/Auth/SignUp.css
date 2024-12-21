@@ -1,0 +1,55 @@
+.main6{
+    background-image: url(bg1.jpg);
+
+}
+
+.addUser{
+    width: 25%;
+    margin-top: 10px;
+    margin: 50px auto;
+    background-color:transparent;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.065);
+}
+.addUserForm .inputGroup{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.addUserForm .inputGroup label{
+    margin-top: 5px;
+}
+.addUserForm .inputGroup input{
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.inputGroup button{
+    margin-top: 5px;
+    background-color: transparent;
+    justify-items: center;
+
+}
+.login {
+    
+    text-align: center;
+    
+}
+.login .btn.btn-primary{
+    width: 50%;
+    background-color: transparent;
+}
+.btn.btn-success{
+    width: 60%;
+    text-align: center;
+    background-color: transparent;
+
+}
+.addUser h3{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(57, 64, 92);
+    text-transform: uppercase;
+    text-shadow: 1px 1px 8px rgba(102, 99, 99, 0.7);
+}
