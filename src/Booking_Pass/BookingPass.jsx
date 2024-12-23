@@ -157,7 +157,7 @@ const BasicPassForm = () => {
 
         {isConfirmed ? (
           <div>
-            <p>Net Amount: ${formData.netAmount}</p>
+            <p className="amount">Net Amount: ${formData.netAmount}</p>
             <button type="submit">Submit</button>
           </div>
         ) : (
