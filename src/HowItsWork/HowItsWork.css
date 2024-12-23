@@ -26,7 +26,7 @@
     display: flex;
     flex-direction: column; /* Use column layout to stack items */
     justify-content: space-between; /* Push content to top and bottom */
-    background-color: rgb(243, 236, 236);
+    background-color: rgb(250, 246, 246);
     padding: 30px;
     border-radius: 8px;
     width: 80%;
@@ -34,7 +34,8 @@
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     position: relative;
     z-index: 10000;
-    height: 60%; /* Ensures there’s space to push content to the bottom */
+    height: 100%;
+    top: -10%; /* Ensures there’s space to push content to the bottom */
   }
   
   /* Centering the header */
@@ -44,6 +45,7 @@
     text-align: center;
     
   }
+ 
   h3{
     text-align: center;
   }
