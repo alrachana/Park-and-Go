@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import "./Login.css";
 import { Link } from "react-router-dom";
-import Navbar1 from "../NavBar/navbar1";
+import Navbar1 from "../NavBar/Navbar1";
 import { auth } from "./firebase"; // Import Firebase auth
 import { signInWithEmailAndPassword } from "firebase/auth";
 
