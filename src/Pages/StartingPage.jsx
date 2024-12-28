@@ -1,6 +1,6 @@
 import React from "react";
 import {  Routes, Route } from "react-router-dom";
-import SearchBar from "../HomePage/SearchForm";
+import SearchBar from "../HomePage/SearchFormPage";
 import Placeform from "../Booking_Pass/PlaceForm";
 
 function Homepage2() {
