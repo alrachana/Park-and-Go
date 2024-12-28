@@ -1,8 +1,8 @@
 import React from "react";
 //import { useNavigate } from "react-router-dom";
 
-import Navbar1 from "../NavBar/navbar1";
-import AuthForm from "../Auth/AuthForm";
+import Navbar1 from "../NavBar/Navbar1";
+//import AuthForm from "../Auth/AuthForm";
 import bg from './bg1.jpg'
 import Buttons from "../Auth/Buttoms/buttons";
 
